@@ -112,6 +112,7 @@ author:
 include:
   - .htaccess
   - _pages
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -245,3 +246,6 @@ defaults:
       comments: # true
       share: true
       related: true
+	  
+# Include Pages
+include: ["_pages"]
