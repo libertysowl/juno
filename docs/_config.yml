@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "JUNO"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "M"
-description              : "Data & Visualisation Services"
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "M"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Making data talk nicely"
-  location         : "United Kingdom"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   uri              :
   bitbucket        :
@@ -112,7 +112,6 @@ author:
 include:
   - .htaccess
   - _pages
-
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -246,4 +245,3 @@ defaults:
       comments: # true
       share: true
       related: true
-	  
