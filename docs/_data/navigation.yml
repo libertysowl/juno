@@ -6,7 +6,7 @@ main:
     url: /services/
   - title: "Gallery"
     url: /gallery/
-  - title: "contact"
+  - title: "Contact"
     url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/
