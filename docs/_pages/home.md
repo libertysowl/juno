@@ -4,26 +4,26 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mountains_area_chart_1600.png
-  cta_label: "<i class='fa fa-download'></i> Install Now"
+  cta_label: "<i class='fa fa-download'></i> Contact Us"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'We make data feel natural.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.4.2">Latest release v4.4.2</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'We make data feel natural.<br /> {:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
+    alt: "Dashboard Development"
+    title: "Dashboard Development"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
+    alt: "BI & Visualization Audit"
+    title: "BI & Visualization Audit"
     excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
+    alt: "Tableau Server
+    title: "Tableau Server"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
     btn_label: "Learn More"
