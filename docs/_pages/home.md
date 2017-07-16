@@ -4,10 +4,10 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mountains_area_chart_1600.jpg
-  cta_label: "<img src='/assets/images/tableau_logo.png'>"
+  cta_label: "Tableau Experts"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Visualise data in the natural way.<br /> '
+excerpt: 'Visualise data in the natural way.<br /><img src='/assets/images/tableau_logo.png'>'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
