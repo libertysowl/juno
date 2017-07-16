@@ -7,7 +7,7 @@ header:
   cta_label: "Tableau Experts"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Visualise data in the natural way.<br /><img src="/assets/images/tableau_logo.png">'
+excerpt: 'Visualise data in the natural way.<br /><img src="juno/assets/images/tableau_logo.png">'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
