@@ -7,23 +7,23 @@ header:
   cta_label: "Tableau Experts"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Visualise data in the natural way.<br /><img src="https://libertysowl.github.io/juno/assets/images/tableau_logo.png" width="40%">'
+excerpt: 'Visualise data in the natural way.<br /><i class="tableau_logo"><img src="https://libertysowl.github.io/juno/assets/images/tableau_logo.png" width="40%"></i>'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super Customizable"
+    title: "Dashboard Development"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive Layouts"
+    title: "BI & Visualisation Audit"
     excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "100% Free"
+    title: "Tableau Server"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
     btn_label: "Learn More"
