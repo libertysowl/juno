@@ -7,11 +7,11 @@ header:
   cta_label: "Tableau Experts"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Visualise data in the natural way.<br /><p class="tableu_logo><img src="https://libertysowl.github.io/juno/assets/images/tableau_logo.png" width="40%"></p>'
+excerpt: 'Visualise data in the natural way.<br /><img class="tableau_logo src="https://libertysowl.github.io/juno/assets/images/tableau_logo.png" width="40%">'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Dashboard Development"
+    title: "Dashboards"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_label: "Learn More"
