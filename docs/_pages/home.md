@@ -4,10 +4,10 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mountains_area_chart_1600.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
+  cta_label:
+  cta_url: 
   caption:
-excerpt: 'Visualise data in the natural way.<br />'
+excerpt: 'Visualise data in the natural way.<br /> '
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
