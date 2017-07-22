@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "junoviz"
 facebook:
   username               : &facebook "michaelrose"
   app_id                 :
@@ -81,21 +81,21 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  bio              : "Freelancer. Passionate about data, visualisations and analytics. Tableau expert."
+  location         : "Hertfordshire, United Kingdom"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "https://junoviz.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : #*facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : #"libertysowl"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : #"mmistakes"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : #*twitter
   vine             :
   weibo            :
   xing             :
