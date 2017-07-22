@@ -7,7 +7,7 @@ header:
   cta_label: "Tableau Experts"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Visualise data in the natural way.<br /><div style="float:right;text-align:right;"><img src="https://libertysowl.github.io/juno/assets/images/tableau_logo.png" width="70%" vspace="10"></div>'
+excerpt: 'Visualise data in the natural way.<br /><img src="https://libertysowl.github.io/juno/assets/images/tableau_logo.png" width="70%" vspace="10">'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
