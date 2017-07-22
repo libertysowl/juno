@@ -3,15 +3,11 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-<<<<<<< HEAD
-  overlay_image: /assets/images/mountains_area_chart_1600.jpg
-=======
   overlay_image: /assets/images/forest_beach_1600.png
->>>>>>> a30538c3513b458ae32a5b795f0b3239668a84ec
   cta_label: "Tableau Experts"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Visualise data in the natural way.<br /><img src="https://libertysowl.github.io/juno/assets/images/tableau_logo.png" width="40%" vspace="15">'
+excerpt: 'Visualise data in the natural way.<br /><div style="float:right;text-align:right;"><img src="https://libertysowl.github.io/juno/assets/images/tableau_logo.png" width="70%" vspace="10"></div>'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
