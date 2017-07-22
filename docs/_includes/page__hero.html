@@ -37,7 +37,7 @@
       {% if page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
         <div style="float:right;text-align:right">
-          {{ image.excerpt_logo }}
+          <img src="{{ page.excerpt_logo }}" width="70%">
         </div>
       {% endif %}
       {% if site.read_time and page.read_time %}
