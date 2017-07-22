@@ -3,11 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-<<<<<<< HEAD
-  overlay_image: /assets/images/forest_beach_1600.png
-=======
-  overlay_image: /assets/imagesforest_beach_1600.png
->>>>>>> 98a5786fb20e6eaa56858b270610ea1a87cce608
+  overlay_image: /assets/images/mountains_area_chart_1600.jpg
   cta_label: "Tableau Experts"
   cta_url: "/docs/quick-start-guide/"
   caption:
