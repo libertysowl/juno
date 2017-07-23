@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/forest_beach_1600.png
-  cta_label: "Tableau Experts"
+  cta_label: "Tableau Expertise"
   cta_url: "/docs/quick-start-guide/"
   caption:
 excerpt: 'Visualise data in the natural way.'
