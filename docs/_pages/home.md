@@ -10,23 +10,23 @@ header:
 excerpt: 'Visualise data in the natural way.'
 excerpt_logo: https://libertysowl.github.io/juno/assets/images/tableau_logo.png
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Dashboards"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/003-dashboard.png
+    alt: "Crystal Clear Dashboards"
+    title: "Dashboards & BI"
+    excerpt: "A flexible and truly customised approach to develop dashboards and business intelligence solutions."
+    url: "/docs/dasboards/"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "BI & Visualisation Audit"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/001-line-chart.png
+    alt: "Impactful Visualisations"
+    title: "Visualisations"
+    excerpt: "Good data is not enough. We help you get a visual impact with it."
+    url: "/docs/visualizations/"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
+  - image_path: /assets/images/002-monitor.png
+    alt: "Get on Tableau Server"
     title: "Tableau Server"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
+    excerpt: "We help you get on board Tableau Server."
+    url: "/docs/tableauserver/"
     btn_label: "Learn More"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
