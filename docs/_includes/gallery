@@ -2,7 +2,7 @@
 <p>Click on the images to access the dashboards</p>
 <div id="tableau_logo">
     <p><a href="{{ cta_url }}"> }}</a>
-    <img src= "{{ page.excerpt_logo }}"</p>
+    <img src= "{{ img.excerpt_logo }}"</p>
 </div>
 
 {% if include.id %}
