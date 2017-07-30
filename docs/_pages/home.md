@@ -33,6 +33,16 @@ github:
 intro:
   - excerpt: 'Find me on &nbsp; [<i class="fa fa-twitter"></i> @junoviz](https://twitter.com/junoviz){: .btn .btn--twitter}'
 
+  gallery:
+    - url: https://public.tableau.com/profile/juno#!/vizhome/WasteinEngland-Whoproducesmoregarbageandwhorecyclesmore/WasteInEngland
+      image_path: /assets/images/tableau_waste_england.jpg
+      alt: "Waster England"
+      title: "Wasted England"
+    - url: https://public.tableau.com/profile/juno#!/vizhome/IronMaiden-AlbumsSingles/AlbumsSingles
+      image_path: /assets/images/tableau_iron_maiden.jpg
+      alt: "Iron Maiden Discography"
+      title: "Iron Maiden Discography"
+
 tableau_viz:
   - image_path: /assets/images/tableau_waste_england.jpg
     url: "https://public.tableau.com/profile/juno#!/vizhome/WasteinEngland-Whoproducesmoregarbageandwhorecyclesmore/WasteInEngland"
@@ -48,3 +58,5 @@ tableau_viz:
 {% include feature_row %}
 
 {% include tableau_viz.html %}
+
+{% include gallery %}
