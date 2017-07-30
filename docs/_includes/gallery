@@ -1,11 +1,8 @@
 <h1>SAMPLES OF OUR WORK</h1>
 <p>Click on the images to access the dashboards</p>
 <div id="tableau_logo">
-    <p><a href="{{ cta_url }}"> }}</a><img src=
-      {% if img.excerpt_logo contains "://" %}
-        "{{ img.excerpt_logo }}"
-      {% else %}
-        "{{ img.excerpt_logo | absolute_url }}"</p>
+    <p><a href="{{ cta_url }}"> }}</a>
+    <img src="{{ page.excerpt_logo | absolute_url }}"</p>
 </div>
 
 {% if include.id %}
