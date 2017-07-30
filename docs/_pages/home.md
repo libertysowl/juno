@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/carissa-gan-45754.jpg
+  overlay_image: /assets/images/andrew-ridley-76541.jpg
   cta_label: "Tableau Expertise"
   cta_url: "http://www.tableau.com"
   caption:
