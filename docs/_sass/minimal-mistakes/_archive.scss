@@ -170,6 +170,7 @@ feature__item:hover {
 .feature__item {
   margin-bottom: 2em;
   font-size: 1.25rem;
+  padding: 0% 5% 0 5%;
 
   @include breakpoint($small) {
     margin-bottom: 0;
