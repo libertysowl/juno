@@ -57,5 +57,3 @@ tableau_viz:
 {% include feature_row %}
 
 {% include tableau_viz.html %}
-
-{% include gallery %}
