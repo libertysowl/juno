@@ -33,11 +33,18 @@ github:
 intro:
   - excerpt: 'Find me on &nbsp; [<i class="fa fa-twitter"></i> @junoviz](https://twitter.com/junoviz){: .btn .btn--twitter}'
 
-tableau_viz: https://public.tableau.com/views/WasteinEngland-Whoproducesmoregarbageandwhorecyclesmore/WasteInEngland?:embed=y&:display_count=yes
+tableau_viz:
+  - image_path: /assets/images/tableau_waste_england.jpg
+    url: "https://public.tableau.com/profile/juno#!/vizhome/WasteinEngland-Whoproducesmoregarbageandwhorecyclesmore/WasteInEngland"
+
+  - image_path: /assets/images/tableau_iron_maiden.jpg
+    url: "https://public.tableau.com/profile/juno#!/vizhome/IronMaiden-AlbumsSingles/AlbumsSingles"
+
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include tableau_gallery.html %}
+{% include tableau_viz.html %}
