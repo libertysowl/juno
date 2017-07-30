@@ -5,10 +5,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/forest_beach_1600.png
   cta_label: "Tableau Expertise"
-  cta_url: "/docs/quick-start-guide/"
+  cta_url: "http://www.tableau.com"
   caption:
 excerpt: 'Visualise data in the natural way.'
-excerpt_logo: https://libertysowl.github.io/juno/assets/images/tableau_logo.png
+excerpt_logo: /assets/images/tableau_logo.png
 feature_row:
   - image_path: /assets/images/003-dashboard.png
     alt: "Crystal Clear Dashboards"
